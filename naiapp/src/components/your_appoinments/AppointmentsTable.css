@@ -1,0 +1,20 @@
+.table-container {
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    color: white;
+}
+
+.appointments-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.appointments-table th,
+.appointments-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Added missing closing bracket */
